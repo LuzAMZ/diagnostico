@@ -1,0 +1,2 @@
+# diagnostico
+App de diagnostico
